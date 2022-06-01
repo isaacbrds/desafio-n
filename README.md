@@ -5,20 +5,14 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 3.1.0
 
-* System dependencies
+* System dependencies mongodb installed
 
-* Configuration
+* Configuration bundle install
 
-* Database creation
+* Database creation rails db:migrate
 
-* Database initialization
 
-* How to run the test suite
+* How to run the test suite rspec 
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
